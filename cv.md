@@ -5,3 +5,8 @@
  * Phone:+375-29-512-21-00
  * Email: 5994708@mail.ru
  * GitHub: AlexTim599
+ ###### About Me:
+ I am learning Java Skript, I like to create new things. An attentive and sympathetic person
+ ###### Skills:
+ * HTML
+ * 
