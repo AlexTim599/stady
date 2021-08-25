@@ -6,7 +6,18 @@
  * Email: 5994708@mail.ru
  * GitHub: AlexTim599
  ###### About Me:
- I am learning Java Skript, I like to create new things. An attentive and sympathetic person
+ I am learning Java Skript, I like to create new things. An attentive and sympathetic person.
  ###### Skills:
  * HTML
- * 
+ * CSS
+ * JavaScript (Basic)
+ * Git
+ ###### Code Example:
+ ```
+ function sum(a, b) {
+  return a + b;
+}
+
+let result = sum(1, 2);
+alert( result ); 
+```
