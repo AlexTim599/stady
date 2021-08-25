@@ -21,3 +21,14 @@
 let result = sum(1, 2);
 alert( result ); 
 ```
+###### Experience:
+I am studying right now.
+
+###### Education:
+* Vitebsk State University named after P.M. Masherov <br>
+Faculty of Law, "Judicial, prosecutorial and investigative activities".
+###### Languages:
+* Russian
+* Spanish (A1)
+* English (A2)
+
