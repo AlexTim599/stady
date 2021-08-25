@@ -3,4 +3,5 @@
  ###### Contacts:
  * Address: Vitebsk, Belarus
  * Phone:+375-29-512-21-00
- * Email: kryvetskistud@gmail.com
+ * Email: 5994708@mail.ru
+ * GitHub: AlexTim599
